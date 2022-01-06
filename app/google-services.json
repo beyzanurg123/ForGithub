@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617870660728",
+    "project_id": "ogrenc-17915",
+    "storage_bucket": "ogrenc-17915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617870660728:android:62c92cbf616357b391c98d",
+        "android_client_info": {
+          "package_name": "com.beyza.myapplication5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617870660728-j2b8v4me3okbti53024mb7v31evvvsfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZUL1iYyyZ1v8LmHhafVyzKjWLb2l-Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617870660728-j2b8v4me3okbti53024mb7v31evvvsfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
